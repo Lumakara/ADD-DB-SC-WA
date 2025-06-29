@@ -1,21 +1,24 @@
 {
-  "result": [
-    {
-      "nomor": "6285183518016",
-      "token": null
+  "users": {
+    "6281234567890": {
+      "token": "TOKEN_KHUSUS_USER_A",
+      "added_by": "62851xxxxxxxx@s.whatsapp.net",
+      "registered_at": "2025-06-30T04:50:00Z",
+      "tier": "premium",
+      "usage_stats": {
+        "command_count": 150,
+        "last_command_at": "2025-06-30T04:48:00Z"
+      }
     },
-    {
-      "nomor": "6283875687067",
-      "token": null
-    },
-    {
-      "nomor": "6282162620510",
-      "token": null
-    },
-    {
-      "nomor": "6282280910243",
-      "token": null
-    },
-    "6285801599629"
-  ]
+    "6289876543210": {
+      "token": null,
+      "added_by": "62822xxxxxxxx@s.whatsapp.net",
+      "registered_at": "2025-06-29T18:20:00Z",
+      "tier": "standard",
+      "usage_stats": {
+        "command_count": 45,
+        "last_command_at": "2025-06-30T02:15:00Z"
+      }
+    }
+  }
 }
